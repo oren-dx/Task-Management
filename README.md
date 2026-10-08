@@ -37,7 +37,7 @@ The application provides three different task statuses:
 
 ## 📂 Project Structure
 
-``text
+```text
 Task-Management/
 │
 ├── manage.py
